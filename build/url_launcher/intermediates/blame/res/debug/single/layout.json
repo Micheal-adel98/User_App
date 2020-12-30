@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Dell\\Downloads\\App-user\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\2164599aef995230b26d0a3b084cc8c7\\core-1.1.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\Downloads\\App-user\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\2164599aef995230b26d0a3b084cc8c7\\core-1.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\Downloads\\App-user\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\2164599aef995230b26d0a3b084cc8c7\\core-1.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\Downloads\\App-user\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\2164599aef995230b26d0a3b084cc8c7\\core-1.1.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\Downloads\\App-user\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\2164599aef995230b26d0a3b084cc8c7\\core-1.1.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\Downloads\\App-user\\build\\url_launcher\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-2\\files-2.1\\2164599aef995230b26d0a3b084cc8c7\\core-1.1.0\\res\\layout\\notification_template_icon_group.xml"
+    }
+]
